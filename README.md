@@ -9,6 +9,8 @@ Inspired by music streaming platforms, this is a fun side project I picked up to
 - Music video section  
   *(Playback is limited due to YouTube restrictions)*
 
+![swiftiefy preview](/appInterface.png)  
+
 
 ## Built With
 - HTML  
