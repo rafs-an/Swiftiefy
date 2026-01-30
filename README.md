@@ -7,7 +7,7 @@ Inspired by music streaming platforms, this is a fun side project I picked up to
 - A curated list of Taylor Swift songs
 - Fetching lyrics in lyrics section for sing-alongs using API 
 - Music video section  
-  *(Playback is limited due to YouTube restrictions)*
+  *(Playback is limited due to YouTube api restrictions)*
 
 ![swiftiefy preview](/appInterface.png)  
 
